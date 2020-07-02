@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-07-02T12:35:19" hostname="CHIC02Z41DALVCH" time="2.171">
+  <properties/>
+  <testcase name="coroutineCustomJobTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.538"/>
+  <testcase name="sumTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.0"/>
+  <testcase name="suspendFunctionTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.504"/>
+  <testcase name="stringInvokeVersionTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.005"/>
+  <testcase name="sumVarargsTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.0"/>
+  <testcase name="stringFunctionVersionTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.001"/>
+  <testcase name="coroutineGlobalTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.608"/>
+  <testcase name="doubleTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.0"/>
+  <testcase name="singletonListTest()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.0"/>
+  <testcase name="coroutineMultipleAsync()" classname="com.expediagroup.api.kotlin.functionz.TopLevelFunctionsTest" time="0.508"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

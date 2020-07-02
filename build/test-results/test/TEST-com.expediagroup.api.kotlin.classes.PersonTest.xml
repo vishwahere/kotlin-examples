@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.expediagroup.api.kotlin.classes.PersonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-02T12:35:19" hostname="CHIC02Z41DALVCH" time="0.004">
+  <properties/>
+  <testcase name="print()" classname="com.expediagroup.api.kotlin.classes.PersonTest" time="0.004"/>
+  <system-out><![CDATA[kotlin
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
