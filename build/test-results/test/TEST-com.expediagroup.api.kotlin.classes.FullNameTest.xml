@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.expediagroup.api.kotlin.classes.FullNameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-02T12:35:19" hostname="CHIC02Z41DALVCH" time="0.001">
-  <properties/>
-  <testcase name="fullName()" classname="com.expediagroup.api.kotlin.classes.FullNameTest" time="0.001"/>
-  <system-out><![CDATA[kotlin
-kotlin language
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
